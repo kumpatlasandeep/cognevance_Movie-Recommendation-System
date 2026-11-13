@@ -1,0 +1,15 @@
+To: support@cognevance.online
+Subject: Project Submission - Movie Recommendation System (Level 1)
+
+Hello Cognevance Team,
+
+Repository: https://github.com/<your-username>/cognevance_movie_recommendation_system
+
+It contains the source code, dataset, trained model, outputs, charts and report.
+
+Experience: <2-3 sentences on what you built and learned, e.g. cleaning data, collaborative filtering, evaluating with RMSE.>
+Review: <what you found useful or challenging>
+Suggestions: <e.g. provide starter datasets, add evaluation rubrics, offer mentor feedback>
+
+Regards,
+<Your name>
